@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "yumikomiyaki",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
